@@ -1,2 +1,13 @@
 # JacksonA.github.io
 My personal portfolio where I may post more about my projects.
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{title}}</title>
+</head>
+<body>
+    <h1>{{title}}</h1>
+    <p>{{content}}</p>
+</body>
+</html>
